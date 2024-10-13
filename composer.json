@@ -1,0 +1,21 @@
+{
+  "name": "umityatarkalkmaz/route",
+  "description": "A simple Database class",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Umityatarkalkmaz",
+      "email": "umityatarkalkmaz@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.2"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Umityatarkalkmaz\\": "src/"
+    }
+  }
+}
